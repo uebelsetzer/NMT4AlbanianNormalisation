@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Python Script" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="sq"/>
+  <body>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Të ciinë kafshë tue e gjegjunë , prifti mbet e j tha , se : Për të vërtetë , sikundrëse i flet me gojë , nd i mbeson ende me zemërë , këto kafshë kanë me të qenë për të madh frujt e dobii të shpiirtit , – e aqë maa tepërë mb atë arrësye , kuur të u a mpsonje e mirë të u a shtinje ndë mend ende tjerëve me j diijtunë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Të cilën gjë duke e gjegjur, prifti mbet e i tha, se : Për të vërtetë, sikundërse i flet me gojë, në i mbeson edhe me zemër, këto gjëra kanë për të qenë për të madh fryt e dobi të shpirtit, – e aq më tepër më atë arsye, kur të ma mësojë e mirë të ua shtinje në mend edhe të tjerëve t'i dijë.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Përse kush të gjindeej , se shtie kundrë këtyne fjalëve – ndo makaar veçëse njaj së vetëmesë ncosh – qi të mos mbeson me gjithë zemërë , j atilli e se të bante gjithë të miratë e shekullit saa për të shelbuomit të shpiirtit , – asndoonjë ncosh s kish me j u përzanë as me j viejtunë , ashtu as regjëniinë e qiellet s kish me mundunë me e dobitunë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Përse kush të gjente, se shtjer kundër këtyre fjalëve – ndo makar veçse një të vetmin syresh shosh – që të mos mbeson me gjithë zemër, i atillë e se të bënte gjithë të miratë e botës sa për të shëlbuarit të shpirtit, – asndonjë syresh s'kish për t'i përzënë as për t'i vënë re, ashtu as mbretërinë e qiellit s'kish për ta dobi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Praashtu , a munë diish , se kush i kaa zanë fiill e folë maa parë këto shinte fjalë , qi ashtë të Mbesuomitë ?</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Kështu, a mund të diish, se kush i ka zënë fill e folë më parë këto të shenjta fjalë, që është të Mbesuarit?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>E gjakoni : Të dymbëdhjetë Apostujtë mb atë herë , kuur mbas mundimit e mortjet se Krishtit qenë mbushunë me rrezeet e dritët të Shpiirtit Shint e u daanë ndëpër gjithë rretht të shekullit me mpsuom e me predikuom shintinë ungjiill e feenë e Krishtit .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>E dhjaku: Të dymbëdhjetë apostujt më atë herë, kur mbas mundimit e mortjet se Krishtit ishin mbushur me rrejët e dritë të Shpirtit të Shenjtë e u dhanë në gjithë rretht të botës për të mësuar e për të predikuar ungjillin e fenë e Krishtit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Praashtu janë quojtunë dymbëdhjetë artikuj , sikuur thuose dymbëdhjetë nenje oo gjymptyrë , përse i siicilli ncish jo veçëse foli e tha të vetnë mposë , po ashtu ende me të madh kujdes e të nzyyrunë i shkruonë ndë letërë e j forcuonë mb atë arrësye , qi askuurraaj maa ndeevonë të mos vdaarenë e të mos meengonjënë tue urdhënuom ashtu ende , qi gjith i kërshtenë , oo burrë oo gruo të jeetë , detuor e mbaajtunë të jeetë këta artikuj e shinte fjalë sikundrëse vetë bukur me j diijtunë e me j mbesuom , ashtu ende me u a mpsuom djelmet e fëmiisë e gjith atyne , qi kanë ndënë urdhënë përmbrenda plangut e shtëpiisë vet , – ashtu qi disa me këto , disa ende me saa tjera vepëra të mira e të shelbuome të jeenë të plotë ndë shintet fee e të bahenë të denjëtë e lavdit Tinëzot e të gazimendit regjëniisë qiellet për gjithë jetë-të jetësë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Pra ashtu janë quajtur dymbëdhjetë artikuj, sikur thuase dymbëdhjetë njeri o gjymtyrë, përse i sikilli sish jo veçse flet e tha të vetën mposë, po ashtu edhe me të madh kujdes e të nzyyrunë i shkruajnë në letër e i forcojnë më atë arsye, që askurrë më pastaj të mos vdaren e të mos mëngonjën duke urdhëruar ashtu edhe, që gjithë i krishterë, o burrë o grua të jetë, detorës e mbajtur të jetë këta artikuj e fjalë të shenjta sikundërse vetë bukur t'i dijë e t'i mbesojë, ashtu edhe për t'ua mësuar pjesët e fëmijës e gjithë atyre, që kanë ndënë urdhën për përmbajtjen e shtëpisë së vet, – ashtu që disa me këto, disa edhe me sa të tjera vepra të mira e të shëlbuara të jenë të plotë në të shenjtat fe e të bëhen të denjët e lavdit të Tinëzot e të gazmendit të mbretërisë së qiellit për gjithë jetë të jetës.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>E prifti : Pa më thuo , se : Qish fjalë n krye mbahenë ndër këta artikuj e shinte kafshë , qi përmendmë përsipëri ?</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>E prifti : Pa më thuaj, se : Ç' fjalë në krye mbahen ndër këto artikuj e gjëra të shenjta, që përmendemi përsipër?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>E gjakoni : Jo tjetër maa tepërë veçëse na qesënë nee përpara syyvet e bukur na e nçelnjënë , se të ciatë kafshë na duhetë me mbesuom , e me qenë të tanë e të plotë ndë feet të Krishtit .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>E dhjaku: Jo tjetër më tepër veçse na qeshin neve përpara syve e bukur na çelin, se të cilat gjëra na duhet të mbesojmë, e me qenë të tanë e të plotë në këmbë të Krishtit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Përse këta të tetë artikujtë e parë përkasënë ndersë Tinëzot , e katër të mbrapënitë shintesë kishë katolike .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Përse këta të tetë artikujt e parë i përkasin ndershëm Tinëzot, e katër të mbrapët të së shenjtës kishë katolike.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>E prifti : U fort dëshëronj , të më thoshnje gjaakafshë kënci artikullit së parë , qi të munë mar vesht , se si e mbaa e e kie forcuom ndë zemërë-tande .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>E prifti : U fort dëshiroj, të më thoshje gjëkafshë kësi prej artikullit të parë, që të mund të marë vesht, se si e mban e e ka forcuar në zemër tënde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>E gjakoni bukur nçelë mbet e j tha , se : U tashti e gjithëherë me gjithë zemërë e shpëresë e mend e shqise e me gjithë forcët e fuqi-teme mbesonje mir e dii , se ashtë mirëfiilli e për të vërtetë një i vetëmë Zotyynë , i cilli me të dërejtë e të vërtetë arrësye ashtë Ati i njaj t vetëmit Birit vet , Krishtit mëshëriershim , Zotit tynë ;</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>E dhjaku bukur çelë mbeti e i tha, se : unë tashti e gjithherë me gjithë zemërë e shpresë e mend e shqisa e me gjithë forcën e pushtet të mbeson mirë e di, se është mirëfilli e për të vërtetë një i vetëm Zoti ynë, i cili me të drejët e të vërtetë arsye është Ati i një të vetëm Birit të vet, Krishtit të mëshirshëm, Zotit tonë ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>e me gjith aqë hire të paanjefuna e të mira , qi na kaa baam ende po na ban , ashtë ati i mëshëriershim e prindi i gjithë feesë kërshtenë – j atyne , duo të thom , qi janë të prunjëtitë e të feeshimitë bijtë e tii , – e jo i disa madhështore kryëkecyem , qi me ato madhështiit e të paagjejshimit të vet janë daam n gjiut e sietullet së tii e mpshtetunë ndaj Luçifernë e mallëkuom .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>e me gjithaq hir të panjohura e të mira, që na ka bërë edhe po na bën, është ati i mëshirshëm e prind i gjithë feve të krishterë – i atyre, dua të them, që janë të prunjëtët e të feshëm bijtë e tij, – e jo i disa madhështore kryqëzore, që me ato madhështisë e të pahijshmit të vet janë ndarë në dijët e siullet së tij e mbështetur ndaj Lucifernës e mallkuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>E ashtu ende për të kriijuomit : ashtë baasi e kriijuosi i gjithë krautyrëvet e aqi i puçtuoshim e j madh e j lëvduom , saa askuurraaj kandi e të madhtë e zotëniisë tii s munë dihetë ,   ashtu as gjuhet së n’jerëzet munë  kallëzonetë – posi këjo kafshë mirë munë njifetë , se asndoonjii kafshe veçëse me një fjalë të vetëmenë kriijoj e bani qiellë e dheenë e deetinë  me gjithë saa tjera krautyrë e kafshë kanë ndë vetëhenë – kafshë për mërekullë për të vërtetë , ke thonë doktorëtë e hollë , qi me aqë të madhet e te thellët urtët e die-të vet kanë matunë e diinë jo veçëse të naltëtë e qiellet e të largëtë e tyne njanënë n tjetëret , po ashtu ende të thellëtë e fundit ferrit e visetë e Limbit e të Burgatorit e gjithë të gjanëtë , të gjatëtë e të largëtë e rrethit shekullit – të ciitë jashtë saa ncë tjera mërekulliish jesënë e thonë , se veçëse një yyll i vetëmi ancish , qi dukenë mbë qiellt , ashtë ma j madh e j gjanë se gjithë rrethi i shekullit .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>E ashtu edhe për të krijuesit : është basi e krijuesi i gjithë krijesëve e aq i puçtuar e i madh e i lëvduar, sa askurrë këndej e të madhe e zotnisë së tij s'mund të dihet, ashtu as gjuha së njerëzve mund të kallëzohet – posi kjo gjë mirë mund të njohë, se asndonjë gjë veçse me një fjalë të vetme krijoi e bëri qiell e len e detin me gjithë sa të tjera krijesë e gjëra kanë në vete – gjë për mrekullë për të vërtetë, ku thonë doktorët e hollë, që me aq të madhe e të thellët urtët e dijetarisë së vet kanë mësuar e dinë jo veçse të naltët e qiellit e të largët e tyre njëri në tjetrin, po ashtu edhe të thellët e fundit të ferrit e viset e së Limbit e të Burgarit e gjithë të gjërat e, sa më shpejt që të mundësh, e të shkruara, sa më shpejt që s'i përkasin tetërkujt veçse, e tyre edhe të tjera, sa më një tjetër, e eng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Praa , kuur veçëse një yyll i vetëmi ashtë ma j madh e j gjanë se gjithë rrethi i shekullit , kuur me mend të viij roe nierii e të kujton të gjanëtë e qiellet e të largëtë e tyne  njana n tjetëret e t ardhunitë e tyne rreth dheut e gjith aqë yj kuurraaj të paanjefunë , qi veçëse një ncish ashtë shumë ma j madh se gjithë të gjanëtë  e dheut , qi dheu na duketë nee , se askuurraaj kandi s i dihetë , e ashtu ende me kujtuom diellinë e hanënë e ndeevonë parriisinë me gjith aqë numurë e ushtërii të paanjefunë eengjiish e shintënish e dheenë e deetinë me gjithë saa krautyrë të paana e të paapaana kanë ndë vetëhe , – aj zot i mëshëriershim jo veçëse i kaa baam e kriijuom ,  posikundrëse thashë përsipëri , po ashtu ende gjithë saa janë sikuur një asgjaakafshë i mbaa ndë pëlangë- të dorësë j ruon e j guvernon e j vee roe aqë bukurë , saa mbë qiellt e mbë dheet e ndë fun-të deetit oo ndë ferrë e ndë burgatuor s munë gjindetë kafshë , qi të mundën me i kundrështuom oo me j u shtëmangunë atje , ke dora e vërtytja e tii të mos mundënte me j a mbëriim .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Pra, kur veçse një gjallë i vetëm është më i madh e i gjanë se gjithë rrethi i botës, kur me mend të vërë re njeri e të kujtojë të gjanët e qiellit e të largët e tyre njëra në tjetrën e të ardhurit e tyre rreth dheut e gjith aq yj kurrë të panjohura, që veçse një syresh është shumë më i madh se gjithë të gjanët e dheut, që dhe na duket nee, se askurrkëndi s'i dihet, e ashtu edhe për të kujtuar diellin e dinë e pastaj parajsë me gjithë aq numer e ushtri të panjohura engjëjish e shenjtësh e dheen e detin me gjithë sa krijesë të panjohura e të paana e të paupa kanë në vete, – ai zot i mëshirshëm jo veçse i ka bërë e krijuara, posikundërse thashë përsipër, po ashtu edhe gjithë sa janë sikur një asgjaka gjë i mban në plangë të dorës i ruaj e i mbretë e i vë re aq bukur, sa më qiell e më dhe e në fun të detit o në ferër e në burguar s'mund të gjendet gjë, që të mundin t'i kundrështuar o t'i shmangin aty, ku dorës e virtytja e tij të mos mundte t'ia mbërrij.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Duo të thom , se , kuur këto kafshë gjithë kaqë të randa e të mëdhaa e kuurraaj të paanjefuna j atilli zot i mëshëriershim , mbasi i kaa baam e kriijuom , j ushqen  ashtu ende e j ruon e j guvernon e u di gjithëve , saa janë , numurinë e emënat e tyne , – saa e saa ma j madh e j lëvduom ashtë aj vetë i mëshëriershimi ;</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Duke thënë, se, kur këto gjëra gjithë kaq të rënda e të mëdhë e kurrë të panjohura i atillë zot i mëshirshëm, mbasi i ka bërë e krijuar, i ushqen ashtu edhe e i ruon e i mbreton e u di gjithëve, sa janë, numerin e emrat e tyre, – sa e sa më i madh e i lëvduar është ai vetë i mëshirshëm ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>oo kush  munë j a gjeenjë kandnë e të madhtë e zotëniisë tii , qi të Shkruomite jet e thotë , se : non est locus , ubi non est Deus – s munë gjindetë vend , ke të mos ish Zotyynë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>o kush mund t'ia gjejë këndej e të madhe e zotnisë së tij, që të Shkruarit jet e thotë, se : non est locus, ubi non est Deus – s'mund të gjendet vend, ku të mos ish Zoti ynë.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>E këta kumëtrë të jeenë : ndoonee maa pak buri të kietë sosunë 14. viet e gruoja 12. , e të jeenë të dy krezmuom e konfirmuom prej upeshkëpit , sikundrëse do ligja e t kërshtenëvet .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>E këta kumtër të jenë : ndoonee më pak buri të ketë sosur 14. vjet e gruaja 12., e të jenë të dy krezmuar e konfirmuar prej ipeshkëvit, sikundërse do ligji i të krishterëve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>E thotë , se aty mirë të venë roe prifti , qi aspak ndë t atiit ndeer mos përzanë ndoonjë të pëganë e të paafee oo eretik e shizmatik oo ndoonjë , qi t ish mallëkuom e skomunikuom coram popullë oo suspenduom e mbaajtunë oo disa nierëz të këqii e të paashpiirt , qi janë nçelë e vuum mb emënë e mbë zaa të keq , oo ndoonja , qi t ish këmbyem e paa mend oo të mos diij ndoonee maa pak me baam kryq mbë vetëhenë e Pater nosterë e Ave Mariinë e të 12] artikujtë e feesë me saa të tiera uratë e arrësenje të mira , sikundrëse do zakoni shint e ligja e t kërshtenëvet , ashtu qi ndeevonë , kuur t a mbëriinjënë mbë mend e mbë shqise , ata famujtë e tyne të mundnjënë ende atyne me u a mpsuom , posikundrëse janë detuor e mbaajtunë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>E thotë, se aty mirë të vënë re prifti, që aspak në të atillë nder të mos përzërë ndonjë të pagan e të pafe o eretike e shizike o ndonjë, që t'ish mallkuar e skomunikuar koram popull o të suspenduar e mbajtur o disa njerëz të këqinj e të paashpirti, që janë çelë e vënë më emër e më zë të keqe, o ndonjë, që t'ish shkëmbyer e pa mend o të mos dijë ndonjë më pak për të bërë kryq më vete e Pater nostër e Ave Marinë e të 12] artikujt e fe me sa të tjera uratë e arrësenje të mirë, sikundërse do zakoni të shenjtin e ligji e të krishterëve, ashtu që më vonë, kur ta mbërrijnë mend e më shqisa, ata famët e tyre të mund të jenë edhe të më shpejt, posikundërse janë detorës e mbajtur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>E ashtu ende thotë , se ndë këtë kafshë aspak s duhetë me u përziem fratënitë oo këllogjënitë e këllogjëneshatë e gjithë të tjerëtë , qi janë munështirevet , daam njëherë e larguom n gjithë kafshëshit së kësaa-jete .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>E ashtu edhe thotë, se në këtë gjë aspak s'duhet të përzihet fretërit o kalligjënitë e kalligjëneshat e gjithë të tjerat, që janë munështive, ndarë njëherë e larguar në gjithë gjërash së kësaj jete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Ndë qish koho e mbë qish vend munë banetë këta shint të pagëzuom .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Në qysh kohë e më qysh vend mund të bëhet këta të shenjtë të pagëzuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Thotë , se mbe qishdo arrësye të jeetë këta shin-të pagëzuom , ndë gjithë mot e koho munë bahetë , makaar se ende nd atë mot e koho , qi t ishnë gjithë gjindja ndë të mbaajtunë e privuom e jashtë n gjithë ncë tjerashit sakramentesh ;</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Thotë, se në çdo arsye të jetë këta të shenjtë të pagëzuar, në gjithë mot e kohë mund të bëhet, makar se edhe në atë mot e kohë, që t'ishin gjithë gjindja në të mbajtur e privuar e jështë në gjithë së tjerash sakramente ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>mb atë herë , kuur duketë , se ashtë kafsha m perikullë , këjo munë banetë ndë gjithë koho e mbë gjithë vend .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>më atë herë, kur duket, se është gjëja më rrezik, kjo mund të bëhet në gjithë kohët e më gjithë vend.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Maa posikundrëse kaa qenë zakoni i motshim , maa tepërë se ndë gjithë mot e dit të tjera e maa me komoditat këto te dyy dit të shënuome , qi ashtë të shëtunë e madhe e të shëtunë e rshajevet , mb ate herë , kuur beekohetë fonta e gjithë vietit për të pagëzuom ;</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Por posikundërse ka qenë zakoni i motshëm, ma tepër se në gjithë mot e ditë të tjera e më me komoditat këto te dy ditë të shenjta, që është të shtunën e madhe e të shtunën e rrëshajëve, më atë herë, kur bekohet pagëzore e gjithë jetës për të pagëzuar ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>e bahetë këta shin-të pagëzuom me gjithë çerimoniat e kafshë-të tjera maa me të mëdhaa e të plota ndere e solemnitate – e cia kafshë për këta të mëdhenjt , qi duonë me u pagëzuom kund afërë këtyne dite , – kuur duketë kafsha , se s ashtë ashtu ndoonja perikullë , duhetë të presënë e mb atë ditë me u pagëzuom .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>e bëhet këta të shenjtë të pagëzuar me gjithë cerimonitë e gjëra të tjera më me të mëdha e të plota ndre e solemnità – e cila gjë për këta të mëdhenj, që duan të pagëzohen kund afërë këtyre ditëve, – kur duket gjëja, se s'është ashtu ndonjë rrezik, duhet të presin e më atë ditë të pagëzohen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Maa kuur t ishte kafsha ashtu , qi të mos mundetë me pritunë – t atiitë mb atë arrësye të venë ndë kishë-të mëdhaa , ke ashtë upeshkëpi oo qishdo tjetër prelat , e aty të pagëzonenë solemnemente e me të madhe ndeer e lavd , posikundrëse do ligja e Krishtit .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Po kur të jetë gjëja ashtu, që të mos mundet të pritet – të atillë për atë arsye të vërë në kishë të mëdhë, ku është ipeshkë o qyshdo tjetër prelatë, e aty të pagëzohen solemnente e me të madhe nder e lavd, posikundërse do ligji i Krishtit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>E këjo ndëgjonetë maa tepërë për të mëdhenjt , qi nkthenenë ndë shintet fee .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>E kjo kuptohet më tepër për të mëdhenj, që u kthyen në të shenjtat fe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Ma për foshnjët e këta të vegjëlit – ndoonëse vendi i t pagëzuomit ashtë kisha shinte , ke të jeetë parequom fonta e gjithë kafshëtë e tjera , qi duhenë nd atë shërbëtyrë , asgjaamangu mb atë herë , kuur t ish ashtu ndoonjë nevojë , munë banetë mbë gjithë vend e kedo të ndodhetë , veçëse mos vee paa pagëzuom me qenë vdierrë e daam lavdit e dritet së Tinëzot për gjithë jetë-të jetësë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Por për foshnjët e këta të voglit – ndonëse vendi i të pagëzuarit është kisha e shenjta, ku të jetë parequom pagëzore e gjithë gjërat e tjera, që duhen në atë shërbesë, asgjëmangu më atë herë, kur të jetë ashtu ndonjë nevojë, mund të bëhet më gjithë vend e kudo të ndodhet, veçse mos vërë pa pagëzuar për të qenë vdjerrë e dhënë lavdit e dritës së Tinëzot për gjithë jetë të jetës.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Maa thotë , se paa ndoonjë nevojë aspak s duhetë kanaaj me pagëzuom mbë tjetër vend jashtë kishet së Tinëzot , veçëse ndë janë kund fëmija e ndoonjii regji oo perandori e zoti t madh , qi kanë kapelëtë e sakërstiitë ndë kur-të vet – aty , mbasi të beekonjë fontënë , posikundrëse thamë përsipëri , mun i pagëzonjë ende me gjithë çerimonie-të tjera , posikundrëse ashtë zakoni . –</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Por thotë, se pa ndonjë nevojë aspak s duhet të pagëzohet më tjetër vend jashtë kishës së Tinëzot, veçse në janë kund fëmijë e ndonjë mbret o perandori e zoti të madh, që kanë kapelatë e sakramente në kur të vet – aty, mbasi të bekojë pagëzoren, posikundërse thamë përsipër, mund t'i pagëzojë edhe me gjithë ceremonitë të tjera, posikundërse është zakoni. –</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Praashtu thotë , se të pagëzuomitë duhetë me qenë baam jo veçëse me formët e materiit , qi thamë përsipëri , po ashtu ende mbë ven-të shekruom e for-të mpastrë e të dëlirë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Pra ashtu thotë, se të pagëzuarit duhet të jenë bërë jo veçse me formën e materiit, që thamë përsipër, po ashtu edhe më vend të shenjtëruar e fort të pastër e të dëlirë.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>E fonta me ujët ashtu ende të jeetë bukur mbuluom e kurmzuom , qi aspak të mos bierë pluhunë oo qishdo tjetër shiizë ndë ta , – e nd enë të mbërshelë , qi askush tjetër të mos përkasë jashtë doret së priftit oo të qishdo tjetëri , qi të pagëzonjë , – e aty përmbii ta , ke mundetë , të jeetë vuum figura e zotit shën Gjon Baptistësë tue pagëzuom Krishtnë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>E pagëzore me ujët ashtu edhe të jetë bukur mbuluar e kurmzuar, që aspak të mos bjerë pluhur o kushdo tjetër shizu në to, – e në anë të mbyllur, që askush tjetër të mos i përkasë jështë dorës së priftit o të qyshdo tjetri, që të pagëzojë, – e aty përmbi ta, ku mundet, të jetë vënë figura e zotit shën Gjon Baptisterës duke pagëzuar Krishtin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Krezmit e vojit shint e ncë tjerashit kafshë , qi duhenë nd atë shinte shërbëtyrë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Kresmit e vajit të shenjtë e të tjerash gjëra, që duhen në atë të shenjtë shërbim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Krezmi e voji shint , qi quhetë catecuminorum , qi janë vuum për zakoni me shërbyem ndë këtë shint sakrament , duhetë të jeetë të rii konshekruom mb ata vjetë upeshkëpit , si a zakoni t enjëtenë e madhe , e prifti gjithë herë të kietë kujdes maa çpejt , qi të mundnjë , t a marrë e t a kietë gatii e , posaa vien i riu , të vietërinë me e djegunë ndë kishë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Kresmi e vaj i shenjtë, që quhet catecuminorum, që janë vënë për zakoni të shërbehet në këtë të shenjtë sakrament, duhet të jetë të ri konsakruar më atë të vjetër ipeshkëvit, si është zakoni të engjëjt e madhe, e prifti gjithherë të ketë kujdes më spejt, që të mundë, ta marrë e ta ketë gatii e, po sa vjen i ri, të vjetërin ta djegin në kishë.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>E , se veçëse aqë e madhe nevojë të jeetë , nd ish me krezmi-të vietër aspak maa s duhetë me u shërbyem , mbasi kaa sosunë një vjetë , se kish me fëjyem e me baam kundrë ligjsë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>E, se veçse aq e madhe nevojë të jetë, në ish me krezmi të vjetër aspak më s'duhet të shërbehet, mbasi ka sosur një vjet, se kish për të fyer e për të bërë kundër ligjit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>E kuur duketë ndë vietët , se kaa meenguom , – ndë mos pastë tietër krezm e voj shint me j nçtuom , mun i nçonjë pakëzë voj të dëlirë , – maa jo shumë , veçë pakëzë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>E kur duket në vjetët, se ka mangët, – në mos pastë tjetër krezëm e vaj i shenjtë t'i shtojë, mund t'i njohë pakëz vaj të dëlirë, – por jo shumë, veç pakëz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>E thotë , se krezmi e voi shint , ke munë bahetë , duhetë me qenë mbaajtunë ndë ampuleta të rgjanda , e ke mose , ndoonee maa pak të shtampta , qi të munë mbërshilenë bukur , si duhetë , e të jeenë daam e veçë njana n tietëret , qi të mos përzihetë krezmi e voj shint , po të jesë i cicilli veçë nd anëthi-të vet ;</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>E thotë, se krezmi e vaj i shenjtë, ku mund të bëhet, duhet të jetë mbajtur në ampuleta të rgjanda, e ku mos, ndoonee më pak të shtypta, që të mund të mbërshilë bukur, si duhet, e të jenë ndarë e veç njëra në tjetrën, që të mos përzihet krezmi e vaj i shenjtë, po të jemi i cicilli veç në anëthi të vet ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>e përmbii të cieciet të jetë shkruom letëra e baam shinji , qi të njifetë , se ndë të ciit ashtë krezmi oo ndë të ciit voj shint , e të mos jeetë majshtruom ndoonjë herë me marrë njanënë për tjetërët .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>e përmbi të cieciet të jetë shkruar letra e bërë shinji, që të njihet, se në të cilën është krezmi o në të cilin vaj i shenjtë, e të mos jetë majstruar ndonjë herë të marrë njërën për tjetrin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>E disa herë këto ampuletatë e vogëla , qi shërbenjënë për gjithë ditë , munë jeenë përjashta ngjitunë njana me tietërët e përmbrenda daam me kuptyrët e të mbuluome-të vet e shkruom , posikundrëse thashë përsipëri , qi aspak të mos gjindetë ndoonjë ngënjyem e majshtruom .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>E disa herë këto ampuletat e vogla, që shërbejnë për gjithë ditë, mund të jenë jështëstra ngjitura njëra me të tjerat e përbrenda ndarë me kuptyrën e të mbuluara të vet e shkruara, posikundërse thashë përsipër, që aspak të mos gjendet ndonjë ngushëllim e mashtruar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Një letëruor ende saa kaa nçtuom .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Një letrar edhe sa ka shtuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Si duhetë gjith i kërshtenë me gjellunë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Si duhet gjithë të krishterë me gjellë.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Për gjithë mbraamë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Për gjithë mbraëmë.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Udha e dërejtë ndë të dashuni-të Tinëzot .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Urta e drejta në të dashur të Tinëzot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Dryenëshit së qiellet .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Drijëshit të qiellit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Disa mërekulliish .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Disa mrekulli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Të rrëfyemitë e madh , qi epetë mbë lteer .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Të rrëfyerit e madh, që jepet më lteër.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Letëra e gjith atyne , qi t a marrëne me e xgjedhunë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Shkrimin e gjithë atyre, që ta marrë për ta zgjedhur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Ke gjindetë prift i mire .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Ku gjendet prifti i mirë.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Ancish , qi renegonjënë feenë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Ancish, që renegjin fenë.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Ncë paakujdesit se prelatet .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Të pakujdesit se prelatë.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Fajt së disa priftëne .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Fyt të disa priftërve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Të përmendunë saa mpkatesh .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Të përmendur sa mëkatesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Kush i mbaa pajë e e ndimon mpkatnë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Kush i mban pagë e e ndihmon mëkatin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Lavdit së Tinëzot .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Lavdit të Tinëzot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Zakoneshit së këqia .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>zakoneve të keqe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Do mërekulliish .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Do të mrekulliesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Sinodit me arrësye .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Sinodit me arsye.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Pasëqyra e t rrëfyemit e drita e konshenciesë këjo ashtë për të madhe ndimë ndërequnë e urdhënuom si t atyne qi të venë me u rrëfyem , ashtu ende t atyne , qi të rriinë me u a ndëgjuom e me u dhanë të xgjidhunë e peendesënë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Pasqyra e të rrëfyemit e drita e ndërgjegjes kjo është për të madhe ndihmë ndrequr e urdhëruar si të atyre që të vënë të rrëfyem, ashtu edhe të atyre, që të rrin për t'ua kuptuar e për t'u dhënë të zgjidhur e pendesën.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>N’jerii mb atë herë kuur kaa ndë mend me u rrëfyem e mirë me e dëliirunë konshencienë e shpiirtinë e vet n gjithë palaviishit së mpkatevet , i duhetë maa parë mirë t i shtjerë ndë mend gjithë saa janë e numurinë e atyne , qi di se janë murtare .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Në njeri më atë herë kur ka në mend të rrëfehet e mirë për ta dëlirë ndërgjegjen e shpirtin e vet në gjithë palavive të mëkateve, i duhet më parë mirë t'i shtjerë në mend gjithë sa janë e numrin e atyre, që di se janë mortar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Përse mb atë herë , kuur tue mundunë heshtën ndoonjë mpkat murtaar ndë të rrëfyemit o numurinë e tyne e s do me thanë mirëfilli të dërejtënë , aty veçëse vdier mot , e ata të rrëfyem asgja s i vien .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Përse më atë herë, kur duke mundur të heshtë ndonjë mëkat mortar në të rrëfyemit o numrin e tyre e s'do të thotë mirëfilli të drejtojnë, aty veçse vdirren mot, e ata të rrëfyem asgjë s'i vjen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Përse aty s mbaston mëjaft me thanë , se : „ e kam baam të këtiillë mpkat shumë herë oo disa herë “ , posikundrëse ashtë zakoni i disave .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Përse aty s'më mbaston mjaft të themi, se : „ e kam bërë të këtillë mëkat shumë herë o disa herë “, posikundërse është zakoni i disave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Përse dyy e trii herë ende munë thuhetë , se a shumë herë oo disa herë , maa aj me godi e ka baam e përtëriim ende njëqind e një mijë herë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Përse dy a tre herë edhe mund të thuhet, se a shumë herë o disa herë, më ai me vjet e ka bërë e përtërihet edhe njëqind e një mijë herë.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Po kuur mundën gjithëkush , aty ashtë detuor e mbaajtunë me thanë sikundrëse mpkatetë gjithë ndierë ndë kandt ashtu ende numurinë e të përtëriimitë e tyne , kuur mun a dije .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Po kur mundë gjithkush, aty është detorës e mbajtur të thotë sikundërse mëkatet gjithë deri në vend ashtu edhe numrin e të përtërimit e tyre, kur mund ta dijë.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Maa kuur të gjindeej aqë randunë e verbuom ndë men-të vet , qi këtë numurë të mos mundën mirë me e diijtunë , duhetë të thoetë pak maa tepërë oo mangu , sikundrëse t i duketë , se munë j a ndëgjonjë ati i shpiirtit me j dhanë peendesënë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Po kur të gjendej aq rëndë e verbuar në vete, që këtë numer të mos mundën mirë ta dijë, duhet të thuhet pak më tepër o mangët, sikundërse t'i duket, se mund t'ia kuptojë ati i shpirtit t'i japë pendesën.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>E thotë , se aty jo veçëse duhetë n’jerii me xbuluom e me kallëzuom farmëkunë e mpkatit e të keqtë e tii , po ashtu ende gjithë saa rremba , rrathë e rranjë kaa ndë vetëhe , qi quhenë çirkunstancie .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>E thotë, se aty jo veçse duhet njeri të zbulojë e të kallëzojë farmakun e mëkatit e të keqe e tij, po ashtu edhe gjithë sa rremba, rrapa e rrapa ka në vete, që quhen çirku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Përse kuur tue mundunë s do me j xbuluom e me j thanë gjithë ndjerë nd anët këto kafshë , aty veçëse vdier mot , e të rrëfyemitë s i përzihetë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Përse kur duke mundur s'do t'i zbulojë e t'i thotë gjithë deri në anët këto gjëra, aty veçse vdirren mot, e të rrëfyerit s'i përzihet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Përse kush t a kish baam mpkatnë me ndoonjë gruo , aty s i mbaston mëjaft veçë me thanë , se : „ bana mpkat me një gruo “ .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Përse kush ta kish bërë mëkat me ndonjë grua, aty s'i mbajë mjaft veç duke thënë, se : „ bëra mëkat me një grua “.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Përse graa janë shumë e saa arrësenjesh : disa virgjëna , disa të martuome , disa të veja , disa kurva e të lëshuome oo kumëtriet e vëllazëniet oo gjëniet së gruosë vet , qi këto janë e ciecia mposë e mpkat ma j randë e ma j madh njani n tjetërit .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Përse gra janë shumë e sa arsye : disa vajza, disa të martuar, disa të veja, disa kurva e të lëshuar o kumëtëri e vëllezërve o gjërat së gruas vet, që këto janë e ciecia mposë e mëkat më i rëndë e më i madh njëri-tjetërit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Praashtu aty gjithëkush duhetë me thanë mirëfilli të dërejtënë , se qish dorë gruoje qe ajo , me ka e bani mpkatnë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Pra ashtu aty gjithkush duhet të thotë mirëfilli të drejtuar, se qysh dorë gruaja se ajo, me ka e bëri mëkatin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>E përsërii thotë , se të rrëfyemitë s vien mb atë herë , kuur n’jerii s e kaa shtiim e forcuom ndë ment e zemërë-të vet qi andyy tutje fort me u ruojtunë e me u shtëmangunë t atiatë të këqii e mpkate maa me mos i baam , po me pasunë të madh të dhimptunë e me baam peendesënë e plotë për gjithë to .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>E përsëri thotë, se të rrëfyemitë s'vjen më atë herë, kur njeri s'e ka shtirë e forcuar në mend e zemër të vet që andy edhe fort të ruajë e të shmangur të atilla të këqi e mëkate më të mos i bëjë, po me pasur të madh të hidhur e për të bërë pendesën e plotë për gjithë to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Shkruoset e mishtranjet .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Shkruesit e mishërimeve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Carinëshit e arrëseut së tyne .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Carineshit e arrës së tyre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="sq">
+        <seg>Arrëseu i këtii t rrëfyemi e j saa tjera kafshëve këtu përmendunë .</seg>
+      </tuv>
+      <tuv xml:lang="sq" creationid="AI" creationdate="20240517T162338Z">
+        <seg>Arresë i këtij të rrëfehem e i sa të tjera gjërave këtu përmendur.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
