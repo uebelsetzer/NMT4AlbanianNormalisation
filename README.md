@@ -2,7 +2,8 @@
 
 This repository contains scripts, datasets and results related to the paper:
 
-> Zilio, L. and Kabashi, B. (2024) Using neural machine translation for normalising historical documents. In _EURALEX 2024_. (to appear)
+> Zilio, L. and Kabashi, B. (2024) Using neural machine translation for normalising historical documents. In _Lexicography
+and Semantics. Proceedings of the XXI EURALEX International Congress_. Institute for the Croatian Language. (https://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202024/EURALEX2024_Pr_p827-839_Zilio-Kabashi.pdf.pdf)
 
 
 ## Basic requirements for running the scripts in this repository
